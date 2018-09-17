@@ -1,0 +1,29 @@
+_repo: Der-Kollektivismus-und-die-soziale-Monarchie_52117
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neupauer, Josef von
+    aliases:
+    - Neupauer, Joseph R. von
+    - Neupauer, Josef
+    - Neupauer, Joseph von
+    birthdate: 1809
+    deathdate: 1902
+    gutenberg_agent_id: '45312'
+    url: http://www.gutenberg.org/2009/agents/45312
+description: ''
+gutenberg_issued: '2016-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52117'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Collectivism'
+- !lcsh 'Monarchy'
+- !lcc 'HX'
+- GITenberg
+title: Der Kollektivismus und die soziale Monarchie
+url: http://www.gutenberg.org/ebooks/52117
